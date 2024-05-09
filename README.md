@@ -4,6 +4,8 @@ Perguntas e respostas geradas pelo gemini
 É apenas uma execução de um comando para se elaborar um quiz com perguntas sobre o aws cloud practitioner com o Gemini.
 Para customizar os prompts, é possível alterar os valores das variáveis no código python
 
+![image](https://github.com/fabiojhc/quizpreparacao/assets/4910712/1abb9a89-e190-4b87-ad9b-081f82956988)
+
 
 1. Instale o Python -  Passo a Passo no Windows :(https://python.org.br/instalacao-windows/)
 2. Instale o pip - Passo a passo no Windows : (https://pt.stackoverflow.com/questions/239047/como-instalar-o-pip-no-windows-10)
