@@ -2,3 +2,11 @@ kendra
 inspector
 snowmobile
 artifact
+Amazon EC2
+Amazon S3
+Amazon VPC
+Amazon RDS
+Amazon DynamoDB
+Amazon Lambda
+Amazon CloudWatch
+AWS Identity and Access Management (IAM)
