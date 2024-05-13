@@ -100,3 +100,38 @@ C - Automaï¿½ï¿½o de aï¿½ï¿½es
 D - Controle de acesso
 Parabï¿½ns, acertou. As tags nï¿½o sï¿½o usadas para controlar o acesso ï¿½s avaliaï¿½ï¿½es do Amazon Inspector.
 
+Identifique a alternativa que apresenta corretamente a definição de Banco de Dados.
+A - Um Banco de Dados é uma coleção organizada de dados estruturados, inter-relacionados e acessados por um ou mais aplicativos.
+B - Um Banco de Dados é um sistema de arquivos que armazena dados em formato binário.
+C - Um Banco de Dados é um aplicativo que permite aos usuários inserir, alterar e excluir dados.
+D - Um Banco de Dados é um mecanismo de busca que permite aos usuários encontrar informações na internet.
+Parabéns, acertou. Um Banco de Dados é uma coleção organizada de dados estruturados, inter-relacionados e acessados por um ou mais aplicativos.
+
+Qual das opções abaixo é um Sistema de Gerenciamento de Banco de Dados (SGBD)?
+A - Microsoft Word
+B - Adobe Photoshop
+C - Mozilla Firefox
+D - Oracle Database
+Parabéns, acertou. Um SGBD é um software que gerencia, cria e fornece acesso a Bancos de Dados.
+
+Qual é o modelo de dados que representa dados como uma coleção de entidades e relacionamentos entre elas?
+A - Modelo Entidade-Relacionamento (MER)
+B - Modelo Relacional
+C - Modelo Hierárquico
+D - Modelo Rede
+Parabéns, acertou. O Modelo Entidade-Relacionamento (MER) representa dados como uma coleção de entidades (coisas do mundo real) e relacionamentos (conexões entre as entidades).
+
+Qual das seguintes instruções SQL é usada para criar uma tabela?
+A - CREATE TABLE
+B - INSERT INTO
+C - UPDATE
+D - DELETE FROM
+Parabéns, acertou. A instrução CREATE TABLE é usada para criar uma nova tabela em um Banco de Dados.
+
+Qual das seguintes chaves estrangeiras é uma referência a uma chave primária?
+A - Pedido_Cliente (Tabela Pedidos) -> Cliente_ID (Tabela Clientes)
+B - Cliente_ID (Tabela Pedidos) -> Pedido_Cliente (Tabela Clientes)
+C - Produto_ID (Tabela Pedidos) -> Produto_Nome (Tabela Produtos)
+D - Produto_Nome (Tabela Produtos) -> Produto_ID (Tabela Pedidos)
+Parabéns, acertou. Uma chave estrangeira é uma coluna que faz referência a uma chave primária em outra tabela. A chave estrangeira na tabela Pedidos (Pedido_Cliente) faz referência à chave primária da tabela Clientes (Cliente_ID).
+
