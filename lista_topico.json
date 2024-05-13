@@ -1,0 +1,62 @@
+{
+    "exames" :[
+        {
+            "id_exame": 1,
+            "nome_exame": "aws cloud pratitioner",
+            "lista_topico": [
+                "Kendra",
+                "Inspector",
+                "Snowmobile",
+                "Artifact"
+            ]
+
+        },
+        {
+            "id_exame": 2,
+            "nome_exame": "concurso cebraspe",
+            "lista_topico": [
+                "Lei n.º 8.112, de 11/12/1990",
+                "Banco de dados relacional: Modelo de dados relacional: conceitos,",
+                "álgebra de relações,",
+                "dependência funcional e formas normais,",
+                "Sistema Gerenciador de Banco de Dados Relacional (SGBDR): arquitetura,",
+                "segurança,",
+                "integridade,",
+                "concorrência e gerenciamento de transações,",
+                "Consultas sobre Banco de Dados relacionais utilizando comandos SQL (Structure Query Language) padrão ANSI 92,",
+                "Linguagem de Definição e Manipulação de Dados (SQL DDL e SQL DML).",
+                "Modelagem de Dados e Projeto de Banco de Dados: Modelo Entidade-Relacionamento,",
+                "Projeto lógico e físico de Banco de Dados,",
+                "Normalização do modelo de banco de dados.",
+                "Desenvolvimento de software: Levantamento de requisitos,",
+                "Metodologias de Análise e Projeto de software,",
+                "Conceitos de gerência de projetos de software. Análise de algoritmos. Desenvolvimento Orientado a Objetos. Design Patterns. Servidores Web de Aplicação.",
+                "Engenharia de Software: Metodologias e modelos de desenvolvimento de software,",
+                "Modelagem de software usando UML (Unified Modelling Language),",
+                "Processo de software: conceitos,",
+                "artefatos e atividades,",
+                "Processo Unificado (RUP),",
+                "Teste de software,",
+                "Métricas de software,",
+                "Qualidade de software. CMMI.",
+                "Programação de computadores: Lógica de programação,",
+                "Codificação e teste de programas,",
+                "Linguagens: PHP,",
+                "Java para Web,",
+                "XHTML e HTML5,",
+                "CSS,",
+                "XML.",
+                "Fundamentos de computação: Organização e arquitetura de computadores. Componentes de um computador (hardware e software). Princípios de sistemas operacionais. Arquitetura e organização de computadores.",
+                "Redes de computadores: Conceitos,",
+                "tipos e abrangência,",
+                "Topologia lógica e física,",
+                "Tecnologias e ferramentas relacionadas às redes de computadores,",
+                "Protocolos de rede: IP (formato,",
+                "mecânica,",
+                "endereçamento) para ARP,"
+            ]
+        }
+
+    ]
+    
+}

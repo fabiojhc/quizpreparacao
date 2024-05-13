@@ -1,102 +1,102 @@
-Quais são os dois tipos principais de transferência de dados disponíveis no Snowmobile?
-A - Importação e exportação
+Quais sï¿½o os dois tipos principais de transferï¿½ncia de dados disponï¿½veis no Snowmobile?
+A - Importaï¿½ï¿½o e exportaï¿½ï¿½o
 B - Upload e download
-C - Transferência de arquivos e transferência de objetos
-D - Importação e upload
-Parabéns, acertou. O Snowmobile oferece dois tipos de transferência de dados: importação e exportação, que permitem aos clientes mover dados para dentro e para fora do serviço.
+C - Transferï¿½ncia de arquivos e transferï¿½ncia de objetos
+D - Importaï¿½ï¿½o e upload
+Parabï¿½ns, acertou. O Snowmobile oferece dois tipos de transferï¿½ncia de dados: importaï¿½ï¿½o e exportaï¿½ï¿½o, que permitem aos clientes mover dados para dentro e para fora do serviï¿½o.
 
-Qual dos seguintes recursos não está disponível com o Snowmobile?
-A - Encriptação de dados
-B - Transferência de dados sem fio
-C - Rastreamento de status de transferência
+Qual dos seguintes recursos nï¿½o estï¿½ disponï¿½vel com o Snowmobile?
+A - Encriptaï¿½ï¿½o de dados
+B - Transferï¿½ncia de dados sem fio
+C - Rastreamento de status de transferï¿½ncia
 D - Armazenamento de dados
-Qual das seguintes opções é um recurso do Amazon Inspector?
-A - Avaliação de vulnerabilidade automatizada
-B - Teste de penetração manual
-C - Revisão de código estático
-D - Monitoramento de segurança em tempo real
+Qual das seguintes opï¿½ï¿½es ï¿½ um recurso do Amazon Inspector?
+A - Avaliaï¿½ï¿½o de vulnerabilidade automatizada
+B - Teste de penetraï¿½ï¿½o manual
+C - Revisï¿½o de cï¿½digo estï¿½tico
+D - Monitoramento de seguranï¿½a em tempo real
 q
 q
 q
-Qual é a principal vantagem de usar o Amazon Snowmobile?
+Qual ï¿½ a principal vantagem de usar o Amazon Snowmobile?
 A - Armazenamento de dados de longo prazo
 B - Processamento de dados em tempo real
-C - Transferência de dados de alta velocidade
-D - Transferência segura e econômica de grandes quantidades de dados
-Infelizmente errou. O Amazon Snowmobile permite que as empresas transfiram grandes quantidades de dados para a AWS de forma segura e econômica, superando os desafios de conectividade limitada ou largura de banda restrita.
+C - Transferï¿½ncia de dados de alta velocidade
+D - Transferï¿½ncia segura e econï¿½mica de grandes quantidades de dados
+Infelizmente errou. O Amazon Snowmobile permite que as empresas transfiram grandes quantidades de dados para a AWS de forma segura e econï¿½mica, superando os desafios de conectividade limitada ou largura de banda restrita.
 
-Qual é o tamanho máximo de um dispositivo Amazon Snowmobile?
+Qual ï¿½ o tamanho mï¿½ximo de um dispositivo Amazon Snowmobile?
 A - 10 petabytes
 B - 100 petabytes
 C - 1 exabyte
 D - 2 exabytes
-Qual das seguintes opções é uma vantagem do uso do Amazon Kendra?
-A - Fornece resultados de pesquisa altamente relevantes, mesmo para consultas ambíguas.
-B - Permite que os usuários criem e gerenciem seus próprios índices de pesquisa.
-C - Oferece recursos abrangentes de análise e relatórios.
-D - Pesquisa unificada por meio de vários repositórios.
-Infelizmente errou. O Amazon Kendra oferece pesquisa unificada por meio de vários repositórios, facilitando a localização rápida e fácil de informações de diferentes fontes.
+Qual das seguintes opï¿½ï¿½es ï¿½ uma vantagem do uso do Amazon Kendra?
+A - Fornece resultados de pesquisa altamente relevantes, mesmo para consultas ambï¿½guas.
+B - Permite que os usuï¿½rios criem e gerenciem seus prï¿½prios ï¿½ndices de pesquisa.
+C - Oferece recursos abrangentes de anï¿½lise e relatï¿½rios.
+D - Pesquisa unificada por meio de vï¿½rios repositï¿½rios.
+Infelizmente errou. O Amazon Kendra oferece pesquisa unificada por meio de vï¿½rios repositï¿½rios, facilitando a localizaï¿½ï¿½o rï¿½pida e fï¿½cil de informaï¿½ï¿½es de diferentes fontes.
 
-Qual das seguintes opções é um tipo de índice que pode ser criado no Amazon Kendra?
-A - Índice de tabelas
-B - Índice de imagens
-C - Índice de consulta
-D - Índice de áudio
-Infelizmente errou. Os índices de consulta só podem ser criados a partir de documentos de texto e são otimizados para pesquisar conteúdo não estruturado.
+Qual das seguintes opï¿½ï¿½es ï¿½ um tipo de ï¿½ndice que pode ser criado no Amazon Kendra?
+A - ï¿½ndice de tabelas
+B - ï¿½ndice de imagens
+C - ï¿½ndice de consulta
+D - ï¿½ndice de ï¿½udio
+Infelizmente errou. Os ï¿½ndices de consulta sï¿½ podem ser criados a partir de documentos de texto e sï¿½o otimizados para pesquisar conteï¿½do nï¿½o estruturado.
 
-Qual das seguintes opções é uma forma de conectar o Amazon Kendra a uma fonte de dados?
+Qual das seguintes opï¿½ï¿½es ï¿½ uma forma de conectar o Amazon Kendra a uma fonte de dados?
 A - AWS Lambda
 B - AWS DocumentDB
 C - AWS SQS
 D - Conector de Banco de Dados da AWS
-Infelizmente errou. O Conector de Banco de Dados da AWS permite que o Amazon Kendra se conecte a bancos de dados relacionais e extraia dados para indexação.
+Infelizmente errou. O Conector de Banco de Dados da AWS permite que o Amazon Kendra se conecte a bancos de dados relacionais e extraia dados para indexaï¿½ï¿½o.
 
-Qual das seguintes opções não é um fator que afeta a pontuação de relevância de um documento nos resultados da pesquisa do Amazon Kendra?
+Qual das seguintes opï¿½ï¿½es nï¿½o ï¿½ um fator que afeta a pontuaï¿½ï¿½o de relevï¿½ncia de um documento nos resultados da pesquisa do Amazon Kendra?
 A - Termos de consulta correspondentes no documento
-B - Frequência de termos de consulta no documento
+B - Frequï¿½ncia de termos de consulta no documento
 C - Proximidade dos termos de consulta no documento
 D - Tipo de fonte de dados
-Parabéns, acertou. O tipo de fonte de dados não afeta a pontuação de relevância.
+Parabï¿½ns, acertou. O tipo de fonte de dados nï¿½o afeta a pontuaï¿½ï¿½o de relevï¿½ncia.
 
-Qual das seguintes opções é um benefício do uso de sinônimos no Amazon Kendra?
+Qual das seguintes opï¿½ï¿½es ï¿½ um benefï¿½cio do uso de sinï¿½nimos no Amazon Kendra?
 A - Melhora o desempenho da pesquisa
-B - Reduz a necessidade de indexação
-C - Expansão de consultas de pesquisa
-D - Eliminação de duplicatas
-Infelizmente errou. Os sinônimos ajudam a expandir as consultas de pesquisa, permitindo que os usuários encontrem informações relevantes mesmo que usem termos diferentes.
+B - Reduz a necessidade de indexaï¿½ï¿½o
+C - Expansï¿½o de consultas de pesquisa
+D - Eliminaï¿½ï¿½o de duplicatas
+Infelizmente errou. Os sinï¿½nimos ajudam a expandir as consultas de pesquisa, permitindo que os usuï¿½rios encontrem informaï¿½ï¿½es relevantes mesmo que usem termos diferentes.
 
-Qual das seguintes opções é um benefício do uso do Amazon Inspector?
+Qual das seguintes opï¿½ï¿½es ï¿½ um benefï¿½cio do uso do Amazon Inspector?
 A - Conformidade simplificada
-B - Redução de custos
-C - Melhor experiência do usuário
-D - Avaliação contínua da segurança
-Parabéns, acertou. O Amazon Inspector oferece uma avaliação contínua e automatizada da segurança, ajudando a identificar vulnerabilidades e riscos em tempo real.
+B - Reduï¿½ï¿½o de custos
+C - Melhor experiï¿½ncia do usuï¿½rio
+D - Avaliaï¿½ï¿½o contï¿½nua da seguranï¿½a
+Parabï¿½ns, acertou. O Amazon Inspector oferece uma avaliaï¿½ï¿½o contï¿½nua e automatizada da seguranï¿½a, ajudando a identificar vulnerabilidades e riscos em tempo real.
 
-Qual das seguintes opções não é um tipo de avaliação que o Amazon Inspector pode realizar?
-A - Avaliação de vulnerabilidades
-B - Avaliação de conformidade com HIPAA
-C - Avaliação de malware
-D - Avaliação de configuração
-Infelizmente errou. O Amazon Inspector não realiza avaliações de conformidade com HIPAA.
+Qual das seguintes opï¿½ï¿½es nï¿½o ï¿½ um tipo de avaliaï¿½ï¿½o que o Amazon Inspector pode realizar?
+A - Avaliaï¿½ï¿½o de vulnerabilidades
+B - Avaliaï¿½ï¿½o de conformidade com HIPAA
+C - Avaliaï¿½ï¿½o de malware
+D - Avaliaï¿½ï¿½o de configuraï¿½ï¿½o
+Infelizmente errou. O Amazon Inspector nï¿½o realiza avaliaï¿½ï¿½es de conformidade com HIPAA.
 
-Qual das seguintes opções é um fator que afeta o escopo de uma avaliação do Amazon Inspector?
-A - Região da AWS
+Qual das seguintes opï¿½ï¿½es ï¿½ um fator que afeta o escopo de uma avaliaï¿½ï¿½o do Amazon Inspector?
+A - Regiï¿½o da AWS
 B - Tipos de recursos
-C - Duração da avaliação
+C - Duraï¿½ï¿½o da avaliaï¿½ï¿½o
 D - Todos os itens acima
-Parabéns, acertou. Todos os fatores listados podem afetar o escopo de uma avaliação do Amazon Inspector.
+Parabï¿½ns, acertou. Todos os fatores listados podem afetar o escopo de uma avaliaï¿½ï¿½o do Amazon Inspector.
 
-Qual das seguintes opções é uma ação de mitigação recomendada que o Amazon Inspector pode fornecer?
+Qual das seguintes opï¿½ï¿½es ï¿½ uma aï¿½ï¿½o de mitigaï¿½ï¿½o recomendada que o Amazon Inspector pode fornecer?
 A - Ignorar a vulnerabilidade
 B - Monitorar a vulnerabilidade
-C - Recomendar ações de mitigação
+C - Recomendar aï¿½ï¿½es de mitigaï¿½ï¿½o
 D - Converter a vulnerabilidade em um teste
-Parabéns, acertou. O Amazon Inspector pode recomendar ações específicas para corrigir vulnerabilidades e riscos identificados.
+Parabï¿½ns, acertou. O Amazon Inspector pode recomendar aï¿½ï¿½es especï¿½ficas para corrigir vulnerabilidades e riscos identificados.
 
-Qual das seguintes opções não é um benefício do uso de tags em avaliações do Amazon Inspector?
-A - Organização de avaliações
+Qual das seguintes opï¿½ï¿½es nï¿½o ï¿½ um benefï¿½cio do uso de tags em avaliaï¿½ï¿½es do Amazon Inspector?
+A - Organizaï¿½ï¿½o de avaliaï¿½ï¿½es
 B - Filtragem de resultados
-C - Automação de ações
+C - Automaï¿½ï¿½o de aï¿½ï¿½es
 D - Controle de acesso
-Parabéns, acertou. As tags não são usadas para controlar o acesso às avaliações do Amazon Inspector.
+Parabï¿½ns, acertou. As tags nï¿½o sï¿½o usadas para controlar o acesso ï¿½s avaliaï¿½ï¿½es do Amazon Inspector.
 
