@@ -56,7 +56,7 @@ def mostrarPontuacaoAtual(pontos):
 
 def getListaOpcoesQuiz():
     try:
-        with open('lista_topico.json', 'r') as arquivo:
+        with open('lista_topico.json', 'r', encoding='utf-8') as arquivo:
             data = json.load(arquivo)
             lista_exames = data["exames"]
             return lista_exames
@@ -82,11 +82,11 @@ numeroDeQuestoes = 5
 chat = model.start_chat(history=[])
 
 while (opcao != 0):
-    topico = input("Qual o topico que deseja escolher? Caso prefira, apenas pressione enter para um tópico aleatório ")
+    topico = input("Qual o topico que deseja escolher? Caso prefira, apenas pressione enter para um tópico aleatório: ")
     if (topico == ""):
         topico = topicoAleatorio(selecao['lista_topico'])
     
-    prompt = "Gere uma lista não repetida de " + str(numeroDeQuestoes) + "lista_questoes, de nome questoes,  no padrão do exame " + exame + " sobre o tópico:  " + topico + "; cada questão deve conter os campos: titulo_da_questao; letra_da_assertiva_correta,  explicacao_da_assertiva_correta  e uma lista com 4 alternativas chamada de lista_de_assertivas, cada assertiva deve conter a letra_da_assertiva e o  texto_da_assertiva; em formato JSON;"
+    prompt = "Gere uma lista não repetida de " + str(numeroDeQuestoes) + " questoes, de nome questoes,  no padrão do exame " + exame + " sobre o tópico:  " + topico + "; cada questão deve conter os campos: titulo_da_questao; letra_da_assertiva_correta,  explicacao_da_assertiva_correta  e uma lista com 4 alternativas, sendo 3 erradas e uma certa, chamada de lista_de_assertivas, cada assertiva deve conter a letra_da_assertiva e o  texto_da_assertiva; em formato JSON;"
     try:
         print("Favor aguardar um instante, enquanto a requisição ao Gemini é realizada...")
         response = chat.send_message(
