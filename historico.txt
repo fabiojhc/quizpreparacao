@@ -100,3 +100,246 @@ C - Automação de ações
 D - Controle de acesso
 Parabéns, acertou. As tags não são usadas para controlar o acesso às avaliações do Amazon Inspector.
 
+Qual é o propósito do Snowmobile?
+A - Armazenar backups de dados para recuperação de desastres
+B - Transferir grandes quantidades de dados para e de uma instância do AWS Outpost
+C - Processar dados locais para o Edge Computing
+D - Fornecer conectividade de rede para locais remotos
+Qual é a unidade básica de conteúdo gerenciado pelo Kendra?
+A - Página da Web
+B - Conjunto de dados
+C - Documento
+D - Índice
+Infelizmente errou. Documento é a unidade básica de conteúdo gerenciado pelo Kendra.
+
+Qual é a função do conector do Salesforce no Kendra?
+A - Converter dados do Salesforce em formato compatível com Kendra
+B - Indexar e pesquisar dados do Salesforce
+C - Criar visualizações de dados do Salesforce
+D - Exportar dados do Salesforce para o Kendra
+Qual das seguintes opções é uma funcionalidade do Amazon Kendra?
+A - Pesquisa empresarial
+B - Gerenciamento de acesso
+C - Detecção de anomalias
+D - Processamento de linguagem natural
+Infelizmente errou. O Amazon Kendra é um serviço de IA que fornece recursos de pesquisa empresarial.
+
+Qual das seguintes opções é um recurso do Amazon Kendra?
+A - Pesquisa aprimorada com IA
+B - Armazenamento de dados em escala de petabytes
+C - Processamento de linguagem natural
+D - Gerenciamento de documentos
+Parabéns, acertou. O Amazon Kendra é um serviço de pesquisa inteligente que torna mais fácil encontrar informações em grandes conjuntos de dados.
+
+Qual é o propósito do campo 'ConfidenceScoreThreshold' ao criar um índice do Amazon Kendra?
+A - Determina a ordem dos resultados da pesquisa
+B - Define a relevância dos resultados da pesquisa
+C - Filtra resultados com base em metadados
+D - Especifica um limite para a pontuação de confiança dos resultados da pesquisa
+Parabéns, acertou. O campo 'ConfidenceScoreThreshold' define um limite para a pontuação de confiança dos resultados da pesquisa.
+
+Qual é a principal diferença entre os índices do Amazon Kendra e do Amazon Elasticsearch Service?
+A - Foco na pesquisa semântica vs. pesquisa estruturada
+B - Capacidade de processamento vs. taxa de transferência
+C - Modelo de preços vs. recursos incluídos
+D - Suporte a tipos de dados vs. formatos de documento
+Infelizmente errou. Os índices do Amazon Kendra são projetados especificamente para pesquisa semântica, enquanto os índices do Amazon Elasticsearch Service são mais adequados para pesquisa estruturada.
+
+Qual das seguintes opções é um caso de uso comum do Amazon Kendra?
+A - Análise forense digital
+B - Monitoramento de mídia social
+C - Gerenciamento de conhecimento interno
+D - Pesquisa de suporte ao cliente
+Infelizmente errou. Pesquisa de suporte ao cliente é um caso de uso comum do Amazon Kendra.
+
+Qual é o benefício de usar o Amazon Kendra com o Amazon Connect?
+A - Os agentes podem pesquisar informações mais rapidamente
+B - O tempo de espera das chamadas é reduzido
+C - Os custos de treinamento são reduzidos
+D - A precisão do reconhecimento de fala é aprimorada
+Parabéns, acertou. O Amazon Kendra permite que os agentes do Amazon Connect acessem informações relevantes mais rapidamente.
+
+Qual das seguintes opções é uma característica dos Artifacts do AWS CodeGuru Reviewer?
+A - Eles são integrados ao fluxo de trabalho de desenvolvimento e podem ser visualizados ou exportados.
+B - Eles são armazenados separadamente da base de código e só podem ser visualizados no console do AWS CodeGuru Reviewer.
+C - Eles são criados apenas quando erros são detectados e não podem ser integrados ao fluxo de trabalho de desenvolvimento.
+D - Eles são gerados manualmente e não podem ser integrados ao fluxo de trabalho de desenvolvimento.
+Qual das seguintes afirmações sobre o Amazon Kendra é verdadeira?
+A - O Amazon Kendra é um serviço totalmente gerenciado que usa aprendizado de máquina para criar índices de pesquisa altamente precisos em escala de petabytes.
+B - O Amazon Kendra requer que os usuários gerenciem sua própria infraestrutura de pesquisa.
+C - O Amazon Kendra não suporta documentos não estruturados.
+D - O Amazon Kendra é um serviço de código aberto que permite aos usuários personalizar seus mecanismos de pesquisa.
+Qual das seguintes opções é uma funcionalidade do AWS Inspector?
+A - Ele pode fornecer logs em tempo real de eventos de segurança.
+B - Ele pode ser usado para gerenciar usuários e grupos.
+C - Ele pode realizar avaliações de vulnerabilidades.
+D - Ele pode ser usado para implantar instâncias do Amazon EC2.
+Qual das opções a seguir é um artefato gerado durante o processo de coleta e processamento de dados de log?
+A - Dados de inventário
+B - Alertas
+C - Logs consolidados
+D - Modelos de machine learning
+Qual dos seguintes é um recurso opcional que pode ser adicionado a um índice Kendra?
+A - Um índice primário
+B - Um Perguntas e Respostas (QA)
+C - Um dicionário personalizado
+D - Um conjunto de regras de processamento
+Qual das seguintes opções é uma característica dos artefatos?
+A - Podem ser modificados a qualquer momento.
+B - Estão disponíveis apenas no console da AWS.
+C - São imutáveis.
+D - São armazenados no CloudWatch.
+Qual das seguintes afirmações é uma vantagem do uso da Amazon Kendra?
+A - Reduz a necessidade de infraestrutura tradicional de pesquisa.
+B - Elimina a necessidade de recursos de aprendizado de máquina.
+C - Permite a pesquisa em vários repositórios de dados.
+D - Fornece resultados altamente precisos, independentemente da qualidade dos dados.
+Qual dos seguintes é um tipo de índice suportado pelo Amazon Kendra?
+A - Índice de pergunta e resposta
+B - Índice de texto completo
+C - Índice de campo
+D - Índice de usuário
+Qual das seguintes é uma vantagem de usar o Snowmobile?
+A - Ele reduz os custos de armazenamento de dados.
+B - Ele acelera o processamento de dados.
+C - Ele fornece acesso direto aos dados sem mover.
+D - Ele é uma solução de backup em nuvem.
+Qual das seguintes afirmações sobre o AWS Inspector é verdadeira?
+A - O AWS Inspector é um serviço que requer gerenciamento manual para avaliações de segurança.
+B - O AWS Inspector é um serviço totalmente gerenciado para avaliações de segurança e conformidade.
+C - O AWS Inspector não pode ser usado para avaliar a segurança de aplicações da AWS.
+D - O AWS Inspector é um serviço pago que requer uma licença para uso.
+Qual das seguintes opções é uma vantagem de usar o Amazon Kendra?
+A - Pode ser usado apenas para pesquisar documentos do Microsoft Word.
+B - Requer hardware especializado para implantação.
+C - Fornece pesquisa unificada em vários repositórios de dados.
+D - É compatível apenas com bancos de dados relacionais.
+Qual dos seguintes é um tipo de artefato no AWS CodeBuild?
+A - Uma imagem de contêiner
+B - Um script de implantação
+C - Um pacote de código-fonte
+D - Um certificado SSL
+Qual das seguintes é uma limitação do Amazon Kendra?
+A - O Amazon Kendra não pode indexar documentos com mais de 10 GB.
+B - O Amazon Kendra não oferece suporte a pesquisas com base em metadados personalizados.
+C - O Amazon Kendra não oferece suporte a consultas de Pesquisa Exata.
+D - O Amazon Kendra não pode ser integrado com outros serviços da AWS.
+Qual das alternativas a seguir é um benefício de usar o Snowmobile?
+A - Move grandes quantidades de dados com segurança e baixo custo.
+B - É uma solução de armazenamento em nuvem.
+C - Fornece computação de alto desempenho.
+D - É um serviço de backup.
+Qual das seguintes opções NÃO é um benefício de usar o Amazon Kendra?
+A - Pesquisa aprimorada por IA
+B - Integração com diversos repositórios de conteúdo
+C - Armazenamento de dados altamente durável e disponível
+D - Capacidades de aprendizado de máquina para melhorar a relevância da pesquisa
+Qual das seguintes é uma vantagem do AWS Snowmobile?
+A - É mais barato do que os métodos tradicionais de transferência de dados.
+B - É mais seguro do que os métodos tradicionais de transferência de dados.
+C - Permite a transferência rápida e segura de grandes quantidades de dados.
+D - É mais fácil de usar do que os métodos tradicionais de transferência de dados.
+Qual é o principal benefício de usar o AWS Snowmobile?
+A - Armazenamento de dados em nuvem de longo prazo
+B - Backup e restauração de dados
+C - Transferência de dados de locais remotos
+D - Migração de dados entre nuvens
+Qual é o propósito do AWS Snowmobile?
+A - Fazer backup de dados locais para a AWS
+B - Transferir dados entre regiões da AWS
+C - Transferir grandes quantidades de dados para a AWS de locais remotos
+D - Arquivar dados na AWS
+Conceito de Servidor Público
+A - Todo ocupante de cargo, emprego ou função pública é considerado servidor público
+B - Somente os ocupantes de cargos efetivos são considerados servidores públicos
+C - Os empregados públicos são considerados servidores públicos, mas não os contratados temporariamente
+D - Os servidores públicos são somente aqueles que exercem funções de natureza política
+Parabéns, acertou. A Lei n.º 8.112/90 define servidor público como todo aquele admitido para exercer cargo, emprego ou função pública, independentemente do regime jurídico
+
+Deveres do Servidor Público
+A - O servidor público é obrigado a obedecer somente às ordens de seus superiores hierárquicos
+B - O servidor público pode se recusar a cumprir ordens ilegais
+C - O servidor público tem o direito de greve
+D - O servidor público tem o dever de zelar pela eficiência da repartição e prestar informações ao público
+Questão 1
+A - 2 é um número primo.
+B - 2 é um número par.
+C - 2 é o menor número inteiro positivo.
+D - 2 é um número ímpar.
+Infelizmente errou. A assertiva correta define corretamente o conceito de 2.
+
+Questão 2
+A - 2 é um divisor de todos os números ímpares.
+B - 2 é um divisor de todos os números pares.
+C - 2 é um divisor de todos os números acima de 10.
+D - 2 é um divisor de todos os números abaixo de 5.
+Qual dos seguintes é um critério de avaliação de propostas de preço?
+A - Experiência do licitante
+B - Qualidade dos materiais
+C - Preço
+D - Prazo de entrega
+Infelizmente errou. O preço é um critério objetivo e mensurável, que permite comparar numericamente as propostas.
+
+O que é gerenciamento de transações?
+A - O processo de envio de propostas de preços
+B - A verificação da documentação de habilitação
+C - O mecanismo que garante a consistência e integridade das transações em um banco de dados
+D - O conjunto de regras que orientam o processo licitatório
+Parabéns, acertou. O gerenciamento de transações garante que todas as operações dentro de uma transação sejam concluídas com consistência e integridade.
+
+Qual dos seguintes é um tipo de concorrência?
+A - Concorrência pública
+B - Concorrência restrita
+C - Concorrência técnica
+D - Concorrência internacional
+Infelizmente errou. A concorrência internacional é aberta a licitantes de qualquer país.
+
+Qual é o objetivo da etapa de habilitação em um processo licitatório?
+A - Comparar as propostas de preços
+B - Verificar a capacidade técnica e financeira dos licitantes
+C - Selecionar a melhor proposta
+D - Assinar o contrato
+Infelizmente errou. A etapa de habilitação verifica se os licitantes atendem aos requisitos exigidos para participar da licitação.
+
+Qual das seguintes é uma característica do modelo de concorrência perfeita?
+A - Poucos produtores
+B - Produto diferenciado
+C - Barreiras à entrada
+D - Elasticidade-preço da demanda infinita
+Parabéns, acertou. No modelo de concorrência perfeita, a elasticidade-preço da demanda é infinita para cada empresa.
+
+Qual das seguintes é uma fase do Processo Unificado (RUP)?
+A - Fase de planejamento
+B - Fase de construção
+C - Fase de implantação
+D - Fase de manutenção
+Infelizmente errou. A fase de construção é responsável pelo desenvolvimento do código e pela integração dos componentes do sistema.
+
+Qual é o principal objetivo do RUP?
+A - Fornecer um processo iterativo e incremental para o desenvolvimento de software
+B - Garantir a qualidade do software desenvolvido
+C - Reduzir os custos de desenvolvimento de software
+D - Aumentar a produtividade dos desenvolvedores de software
+Parabéns, acertou. O RUP visa fornecer um processo iterativo e incremental para o desenvolvimento de software, permitindo que os requisitos sejam refinados e validados ao longo do projeto.
+
+Qual das seguintes práticas é recomendada pelo RUP?
+A - Codificação em cascada
+B - Documentação mínima
+C - Desenvolvimento orientado a casos de uso
+D - Testamento tardio
+Parabéns, acertou. O desenvolvimento orientado a casos de uso ajuda a identificar e refinar os requisitos do usuário.
+
+Qual dos seguintes artefatos é produzido na fase de planejamento do RUP?
+A - Código do software
+B - Plano de desenvolvimento
+C - Documentação do usuário
+D - Análise de requisitos
+Parabéns, acertou. O plano de desenvolvimento é um documento que define o escopo, cronograma e recursos necessários para o projeto de desenvolvimento.
+
+Qual é uma vantagem do uso do RUP?
+A - Reduz a necessidade de documentação
+B - Acelera o desenvolvimento de software
+C - Elimina a necessidade de gerenciamento de projetos
+D - Fornece um conjunto de práticas recomendadas
+Parabéns, acertou. O RUP fornece um conjunto de práticas recomendadas que ajudam a reduzir riscos e melhorar a qualidade do software.
+
